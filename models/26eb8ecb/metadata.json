@@ -1,0 +1,10 @@
+{
+  "hash": "26eb8ecbc2da75a9a2ddea366b30672c13852afece8b8297c0663b9c6745058a",
+  "training": "rl_selfplay",
+  "tag": "rl-r1-i1",
+  "round": 1,
+  "iteration": 1,
+  "parent": "cd8dfa11",
+  "params": "15.36M",
+  "notes": "Round 1 iter 1 RL policy. Note: selfplay/iter_1/models/ (round 2 iter 1) has identical content (same SHA256)."
+}

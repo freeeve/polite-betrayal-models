@@ -1,0 +1,8 @@
+{
+  "hash": "cd8dfa11bfddfca502671de0a98d98b7e4e0fc090a070e644f8c2213fed3ea3d",
+  "created": "unknown",
+  "training": "supervised",
+  "tag": "supervised-v2",
+  "params": "15.36M",
+  "notes": "Supervised policy+value v2"
+}

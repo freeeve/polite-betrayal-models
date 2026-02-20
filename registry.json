@@ -1,0 +1,20 @@
+{
+  "current": "26eb8ecb",
+  "models": {
+    "b883fb2e": {
+      "tag": "supervised-v1",
+      "date": "unknown",
+      "training": "supervised"
+    },
+    "cd8dfa11": {
+      "tag": "supervised-v2",
+      "date": "unknown",
+      "training": "supervised"
+    },
+    "26eb8ecb": {
+      "tag": "rl-r1-i1",
+      "date": "unknown",
+      "training": "rl_selfplay"
+    }
+  }
+}
