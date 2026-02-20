@@ -1,8 +1,8 @@
 {
   "hash": "cd8dfa11bfddfca502671de0a98d98b7e4e0fc090a070e644f8c2213fed3ea3d",
-  "created": "unknown",
+  "created": "2026-02-19",
   "training": "supervised",
   "tag": "supervised-v2",
   "params": "15.36M",
-  "notes": "Supervised policy+value v2"
+  "notes": "6-layer 512-d GAT policy + value network, trained on ~46K games, ONNX exported 2026-02-19"
 }

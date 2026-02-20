@@ -3,12 +3,12 @@
   "models": {
     "b883fb2e": {
       "tag": "supervised-v1",
-      "date": "unknown",
+      "date": "2026-02-18",
       "training": "supervised"
     },
     "cd8dfa11": {
       "tag": "supervised-v2",
-      "date": "unknown",
+      "date": "2026-02-19",
       "training": "supervised"
     }
   }
